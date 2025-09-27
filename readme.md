@@ -9,7 +9,6 @@
 <h2>🔬 Working on ...</h2>
 <ul>
     <li>lumisense</li>
-    <li><a href="https://github.com/rbprsp/shikilib">shikilib</a></li>
 </ul>
 
 <h2>🌱 Learning ...</h2>
