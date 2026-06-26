@@ -26,3 +26,6 @@ For a quick response please contact me via Discord or Telegram
 <br>
 <p>GPG: <code>9CF9 98A2 C2E9 9D9F 6448 4B6A 61B9 9B4F 8AA1 E905</code></p>
 </div>
+<br>
+<br>
+<p align="center">Moved to a self-hosted Gitea instance. Some projects may be outdated.</p>
